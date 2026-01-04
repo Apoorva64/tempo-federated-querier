@@ -1,3 +1,6 @@
+# THIS REPO DOES NOT WORK SEE FORK HERE https://github.com/Apoorva64/tempo/tree/main/cmd/tempo-federated-querier
+
+
 # Tempo Federated Querier
 
 The Tempo Federated Querier enables querying multiple Tempo instances simultaneously and combines the results into a unified view. This is useful when you have distributed tracing data split across multiple Tempo deployments (e.g., per region, per environment, or per team) and want to see a complete trace spanning all systems.
