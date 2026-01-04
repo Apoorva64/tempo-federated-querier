@@ -5,7 +5,7 @@ services:
   # Tempo Federated Querier - queries all Tempo instances
   tempo-federated-querier:
     build:
-      context: ../../..
+      context: ../
       dockerfile: cmd/tempo-federated-querier/Dockerfile
     ports:
       - "3200:3200"
