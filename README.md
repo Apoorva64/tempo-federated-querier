@@ -1,4 +1,4 @@
-# THIS REPO DOES NOT WORK SEE FORK HERE https://github.com/Apoorva64/tempo/tree/main/cmd/tempo-federated-querier
+# THIS REPO DOES NOT WORK SEE FORK HERE [https://github.com/Apoorva64/tempo/tree/main/cmd/tempo-federated-querier](https://github.com/Apoorva64/tempo/tree/main)
 
 
 # Tempo Federated Querier
